@@ -26,4 +26,4 @@ Before this, I built end-to-end ML pipelines and BI tooling for the music indust
 
 - 📍 London, UK
 - ✉️ [merterkan20022@gmail.com](mailto:merterkan20022@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/merterkan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/merterkan20022/)
